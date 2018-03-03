@@ -4,7 +4,7 @@ body {
 }
 
 #tagline {
-	margin-bottom: 50px}
+	margin-bottom: 30px}
 
 p{
 	color: black;
@@ -15,7 +15,7 @@ p{
 	border-style: groove;
 	box-sizing: content-box;
 width: 30%;
-	margin-left:355px;
+	margin-left:465px;
 	margin-bottom: 30px
 	}
 
@@ -27,7 +27,7 @@ img{
 	border-style: groove;
 	box-sizing: content-box;
 width: 30%;
-	margin-left:355px;
+	margin-left:465px;
 	margin-bottom: 30px
 	}
 
@@ -35,7 +35,7 @@ width: 30%;
 	border-style: groove;
 	box-sizing: content-box;
 width: 30%;
-	margin-left:355px;
+	margin-left:465px;
 	}
 
 #textebasdepage {
