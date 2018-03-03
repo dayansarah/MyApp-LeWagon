@@ -1,0 +1,33 @@
+body {
+	font-family: Helvetica
+	}
+#discover {
+
+	/* Flexbox */
+	display: flex;
+	align-items: center;
+
+}
+p{
+	color: blue;
+	font-size: 14px
+}
+#textebasdepage {
+	color: black;
+	font-style: italic;
+}
+#Discover {
+	border-style: dotted;
+	text-align: center;
+	}
+
+
+#Think {
+	border-style: dotted;
+	text-align: center;
+	}
+
+#Share {
+	border-style: dotted;
+	text-align: center;
+	}
