@@ -6,10 +6,10 @@ body {
 	/* Flexbox */
 	display: flex;
 	align-items: center;
-
+	/* Flexbox */
 }
 p{
-	color: blue;
+	color: red;
 	font-size: 14px
 }
 #textebasdepage {
